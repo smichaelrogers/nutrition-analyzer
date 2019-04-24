@@ -2,7 +2,7 @@
 
 > simple static app generates nutritional data for a recipe using the [Nutritionix API](https://developer.nutritionix.com/)
 
-[live version](nut-analyzer.surge.sh)
+[live version](http://nut-analyzer.surge.sh)
 
 ## License
 
